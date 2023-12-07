@@ -1,0 +1,5 @@
+HdRezkaApi
+requests
+pydantic
+fastapi
+bs4
